@@ -1,12 +1,10 @@
 {
-  "name": "test",
+  "name": "saurabh_package",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src --out-dir lib",
-    "main": "lib/index.js"
-
+    "build": "babel src --out-dir lib"
   },
   "keywords": [],
   "author": "",
